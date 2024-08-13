@@ -18,3 +18,6 @@ The project is used to practice advanced DOM manipulation, JS, click events, and
 
 ### Game Over
 ![image](https://github.com/user-attachments/assets/f5e90f2d-e86b-4567-a0aa-227c5168fa7b)
+
+
+Site is live at https://andrewkgithub.github.io/simon-game/
